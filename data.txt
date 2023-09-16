@@ -1,0 +1,3 @@
+Hello World
+// Regular comment?
+Hello Go
