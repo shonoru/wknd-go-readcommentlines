@@ -1,5 +1,5 @@
-How to run
+How to run,
 
 ```
-go run main.go
+WALK_ROOT=/example_path/dir go run main.go
 ```
